@@ -19,7 +19,7 @@ This repository is a data pipeline using dbt Cloud and Snowflake.
 
 ## Tech Stack
 
-**Programming Language:** Python
+**Programming Language:** Python, SQL
 
 **Database:** Snowflake
 
