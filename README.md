@@ -1,15 +1,26 @@
-Welcome to your new dbt project!
 
-### Using the starter project
+# dbt & Snowflake
 
-Try running the following commands:
-- dbt run
-- dbt test
+This repository is a data pipeline using dbt Cloud and Snowflake.
 
+## Architecture
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](https://getdbt.com/community) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+[![dbt-Snowflake.webp](https://i.postimg.cc/rsnKPTF1/dbt-Snowflake.webp)](https://postimg.cc/xNmfXWm8)
+
+## Screenshots
+
+### dbt Cloud
+
+[![Screenshot-from-2024-04-09-13-56-01.png](https://i.postimg.cc/Tw9wKDF2/Screenshot-from-2024-04-09-13-56-01.png)](https://postimg.cc/r0DcbKq7)
+
+### Snowflake
+
+[![Screenshot-from-2024-04-09-13-54-03.png](https://i.postimg.cc/vm5DdjvV/Screenshot-from-2024-04-09-13-54-03.png)](https://postimg.cc/675BrMgW)
+
+## Tech Stack
+
+**Programming Language:** Python
+
+**Database:** Snowflake
+
+**Data Transformation:** dbt Cloud
